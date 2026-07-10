@@ -44,19 +44,6 @@ const sanjay = {
 - 🤝 Open to internships, collaborations, and open-source contributions.
 
 
-## 🚀 What I Do
-
-✨ Build responsive and scalable Full Stack applications
-
-🤖 Develop AI-powered solutions using modern LLM tools
-
-☁️ Deploy applications on AWS, Vercel & Netlify
-
-⚡ Build REST APIs with FastAPI & Node.js
-
-📚 Continuously learning Cloud, DevOps and AI technologies
-
----
 # 💻 Tech Stack
 
 <div align="center">
