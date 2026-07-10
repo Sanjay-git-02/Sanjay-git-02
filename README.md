@@ -149,6 +149,12 @@ const sanjay = {
 
 > Collection of modern web applications demonstrating REST API integration and responsive UI.
 
+<p align="center">
+
+[![API Integration](https://github-readme-stats-beta-sage-55.vercel.app/api/pin/?username=Sanjay-git-02&repo=Task-3---API-Integration&theme=tokyonight&hide_border=true)](https://github.com/Sanjay-git-02/Task-3---API-Integration)
+
+</p>
+
 | Layer | Technology |
 |-------|------------|
 | Weather API | OpenWeather |
