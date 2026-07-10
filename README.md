@@ -309,16 +309,11 @@ If you have an interesting project or opportunity, feel free to connect!
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sanjay-git-02/Sanjay-git-02/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Sanjay-git-02/Sanjay-git-02/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
 
 # 🌌 3D Contribution Calendar
-
-<p align="center">
- ![](https://raw.githubusercontent.com/Sanjay-git-02/Sanjay-git-02/output/github-contribution-grid-snake-dark.svg)
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanjay-git-02&theme=tokyonight"/>
