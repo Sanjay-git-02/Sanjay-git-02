@@ -22,6 +22,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sanjay-git-02&label=Profile%20Views&color=7F3FBF&style=for-the-badge" />
+</p>
+
 # 👨‍💻 About Me
 
 ```typescript
@@ -168,11 +172,17 @@ const sanjay = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanjay-git-02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanjay-git-02&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-git-02&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjay-git-02&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-git-02&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -190,7 +200,7 @@ const sanjay = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sanjay-git-02&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sanjay-git-02&theme=tokyonight&no-frame=true&margin-w=15)]
 
 </div>
 
@@ -205,6 +215,10 @@ const sanjay = {
 </div>
 
 ---
+
+## 📈 GitHub Metrics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjay-git-02&theme=tokyonight)
 
 # ⚡ GitHub Summary
 
@@ -306,7 +320,7 @@ If you have an interesting project or opportunity, feel free to connect!
 # 🌌 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjay-git-02&theme=tokyonight"/>
+ ![](https://raw.githubusercontent.com/Sanjay-git-02/Sanjay-git-02/output/github-contribution-grid-snake-dark.svg)
 </p>
 
 <p align="center">
