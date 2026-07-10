@@ -113,7 +113,7 @@ const sanjay = {
 
 <p align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sanjay-git-02&repo=QuickGPT&theme=tokyonight)](https://github.com/Sanjay-git-02/QuickGPT)
+[![QuickGPT](https://github-readme-stats-beta-sage-55.vercel.app/api/pin/?username=Sanjay-git-02&repo=QuickGPT&theme=tokyonight&hide_border=true)](https://github.com/Sanjay-git-02/QuickGPT)
 
 </p>
 
@@ -129,6 +129,12 @@ const sanjay = {
 ## 🎤 AI Mock Interview
 
 > AI-powered interview preparation platform with realistic technical interview simulations.
+
+<p align="center">
+
+[![AI Mock Interview](https://github-readme-stats-beta-sage-55.vercel.app/api/pin/?username=Sanjay-git-02&repo=AI_Mock_Interview&theme=tokyonight&hide_border=true)](https://github.com/Sanjay-git-02/AI_Mock_Interview)
+
+</p>
 
 | Layer | Technology |
 |-------|------------|
@@ -167,19 +173,15 @@ const sanjay = {
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanjay-git-02&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-git-02&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+<img height="180em" src="https://github-readme-stats-beta-sage-55.vercel.app/api?username=Sanjay-git-02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+</p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjay-git-02&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-git-02&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-beta-sage-55.vercel.app/api/top-langs/?username=Sanjay-git-02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
+
+
 
 ---
 
