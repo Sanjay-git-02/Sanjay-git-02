@@ -298,7 +298,7 @@ If you have an interesting project or opportunity, feel free to connect!
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sanjay-git-02/Sanjay-git-02/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Sanjay-git-02/Sanjay-git-02/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
