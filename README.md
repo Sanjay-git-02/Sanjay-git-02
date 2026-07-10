@@ -22,9 +22,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanjay-git-02&label=Profile%20Views&color=7F3FBF&style=for-the-badge" />
-</p>
 
 # 👨‍💻 About Me
 
@@ -200,7 +197,7 @@ const sanjay = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sanjay-git-02&theme=tokyonight&no-frame=true&margin-w=15)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sanjay-git-02&theme=algolia)]
 
 </div>
 
