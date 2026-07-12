@@ -201,16 +201,6 @@ const sanjay = {
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sanjay-git-02&theme=algolia)]
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
